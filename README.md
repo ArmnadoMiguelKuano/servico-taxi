@@ -1,5 +1,6 @@
  Sistema de Cálculo de Corrida de Táxi (PHP)
  Descrição do Projeto
+ 
 Este projeto foi desenvolvido no âmbito da formação
  Capacita - CFTI (Centro de Formação em Tecnologias de Informação), com o objetivo de aplicar os conceitos fundamentais da linguagem PHP no desenvolvimento de uma solução simples e funcional.
 O sistema simula o cálculo do preço de uma corrida de táxi por aplicativo, considerando fatores como distância percorrida e aplicação de taxa adicional em fins de semana.
